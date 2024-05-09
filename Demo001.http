@@ -1,0 +1,11 @@
+###
+POST http://localhost:8080/add?first=hello&last=world
+
+###
+POST http://localhost:8080/add?first=spring&last=boot
+
+###
+GET http://localhost:8080/list
+
+###
+GET http://localhost:8080/find/1
